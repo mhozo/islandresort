@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website was created as an exercise for [https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging. Additional work should be done before publication._
+_This website was created as an exercise for [https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging). Additional work should be done before publication._
 
 ## Setup/Installation Requirements
 
