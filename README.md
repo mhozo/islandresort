@@ -15,6 +15,7 @@ _No setup needed. Visit [https://mhozo.github.io/islandresort/](https://mhozo.gi
 ## Known Bugs
 
 _Additional features to be implemented include:_
+
 *_Additional branches to merge and try css styles_
 *_One header consistent between pages (implemented in later exercises probably)_
 *_Dynamic styles and custom styles for the entire site_
@@ -33,4 +34,4 @@ _Site uses HTML5._
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Mak Hozo_**
