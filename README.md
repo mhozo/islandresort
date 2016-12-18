@@ -16,11 +16,11 @@ _No setup needed. Visit [https://mhozo.github.io/islandresort/](https://mhozo.gi
 
 _Additional features to be implemented include:_
 
-*_Additional branches to merge and try css styles_
-*_One header consistent between pages (implemented in later exercises probably)_
-*_Dynamic styles and custom styles for the entire site_
-*_Easy-to-edit interface for new website owners_
-*_Additional improvements_
+* _Additional branches to merge and try css styles_
+* _One header consistent between pages (implemented in later exercises probably)_
+* _Dynamic styles and custom styles for the entire site_
+* _Easy-to-edit interface for new website owners_
+* _Additional improvements_
 
 ## Support and contact details
 
