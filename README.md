@@ -1,16 +1,16 @@
-# _{Application Name}_
+# _Private Island Resort (PIR) Exercise_
 
 #### _Island Website Practice Exercise, December 17, 2016_
 
-#### By _Mak Hozo
+#### By _Mak Hozo_
 
 ## Description
 
-_This website was created as an exercise for (https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging)[https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging]. Additional work should be done before publication._
+_This website was created as an exercise for [https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging. Additional work should be done before publication._
 
 ## Setup/Installation Requirements
 
-_No setup needed. Visit (https://mhozo.github.io/islandresort/)[https://mhozo.github.io/islandresort/] to browse. If using IE, IE9 or better is recommended._
+_No setup needed. Visit [https://mhozo.github.io/islandresort/](https://mhozo.github.io/islandresort/) to browse. If using IE, IE9 or better is recommended._
 
 ## Known Bugs
 
